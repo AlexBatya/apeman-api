@@ -1,0 +1,12 @@
+# Ignore everything in this directory
+# Except this file
+!.gitignore
+!config/
+!data/
+!test/uniks/
+
+node_modules/
+build/
+localhost.json
+test/uniks/*
+data/patterns/*
